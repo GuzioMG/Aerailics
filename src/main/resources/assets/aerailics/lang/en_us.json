@@ -1,0 +1,13 @@
+{
+  "itemGroup.aerailics": "Example Mod Tab",
+  "block.aerailics.example_block": "Example Block",
+  "item.aerailics.example_item": "Example Item",
+
+  "aerailics.configuration.title": "Create: Aerailics Configs",
+  "aerailics.configuration.section.aerailics.common.toml": "Create: Aerailics Configs",
+  "aerailics.configuration.section.aerailics.common.toml.title": "Create: Aerailics Configs",
+  "aerailics.configuration.items": "Item List",
+  "aerailics.configuration.logDirtBlock": "Log Dirt Block",
+  "aerailics.configuration.magicNumberIntroduction": "Magic Number Text",
+  "aerailics.configuration.magicNumber": "Magic Number"
+}
